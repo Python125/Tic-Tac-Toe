@@ -1,1 +1,1 @@
-# ticTacToe
+# Tic-Tac-Toe
